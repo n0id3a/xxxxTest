@@ -1,0 +1,4 @@
+#newFile
+=====================
+
+Here is a new file added to the project
